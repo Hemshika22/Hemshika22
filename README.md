@@ -51,7 +51,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemshikagautamc@gmail.com)
 
 ---
-
+## Live Portfolio
+[![PortfolioLink](https://my-portfolio-hemshika.vercel.app/)]
 ⭐ *"Learning never stops — and neither do I!"*  
 💥 **That's it from my side. Ready to rock! 🚀**  
 
