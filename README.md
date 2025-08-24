@@ -52,7 +52,7 @@
 
 ---
 ## Live Portfolio
-[![PortfolioLink](https://my-portfolio-hemshika.vercel.app/)]
+[(https://my-portfolio-hemshika.vercel.app/)]
 ⭐ *"Learning never stops — and neither do I!"*  
 💥 **That's it from my side. Ready to rock! 🚀**  
 
